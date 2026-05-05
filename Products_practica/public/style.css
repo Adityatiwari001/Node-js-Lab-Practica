@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+form {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    width: 100%;
+}
+
+.invalid-feedback {
+    font-size: 0.9rem;
+}
